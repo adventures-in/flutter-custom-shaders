@@ -1,4 +1,4 @@
-package co.enspyr.flutter_shader
+package co.enspyr.flutter_custom_shaders
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
 {
-    "name": "flutter_shader",
-    "short_name": "flutter_shader",
+    "name": "flutter_custom_shaders",
+    "short_name": "flutter_custom_shaders",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.enspyr.flutter_shader">
+    package="co.enspyr.flutter_custom_shaders">
    <application
-        android:label="flutter_shader"
+        android:label="flutter_custom_shaders"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
